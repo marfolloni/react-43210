@@ -1,0 +1,16 @@
+.card-widget {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: larger;
+    color: blue;
+}
+
+.card-widget > img {
+    width: 30px;
+    height: 30px;
+    margin: 5px 5px;
+
+}
